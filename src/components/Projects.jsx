@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Image from "../assets/image.png";
-import Image2 from "../assets/image2.png";
+import Image2 from "../assets/Image2.png";
 
 const projects = [
   {
